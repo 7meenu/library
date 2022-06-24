@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+header{
+    background-color: azure;
+    height:  8em;
+}
+.head-tag{
+    float:left;
+    margin-top:50px;
+    padding :50px;
+    margin-right: 50px;
+}
+.head-tag a{
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    color:crimson ;
+    /* border:5px solid white; */
+    padding: 10px;
+    font-size:x-large;
+}
+.head-tag a:hover{
+    background-color:teal ;
+    color:white;
+}
+.heading{
+    padding: 100px;
+    color:white;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.paragraph{
+    padding:100px;
+    text-align: center;
+    font-size:50px;
+    font-family:cursive;
+    color:bisque;
+    border:5px solid white;
+    height:150px;
+    width:500px;
+    margin-left:400px;
+    
+
+}
+.formtag{
+    
+    background-image:inherit;
+    border:5px solid white;
+    width: 300px;
+    height:500px;
+    margin-left:300px;
+    margin-bottom:300px;
+    padding: 50px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color:bisque
+}
+.buttontag{
+    height:40px;
+    width:100px;
+    font-size: large;
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    margin-top:50px;
+}
+.formtaglogin{
+    border:5px solid white;
+    width: 300px;
+    height:300px;
+    margin-left:300px;
+    margin-bottom:300px;
+    padding: 50px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color:bisque 
+}
